@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Olá!</strong> Que bom te ver por aqui... <br>
-  Me chamo <strong>Maurício</strong>, sou estudante de progamação e um DEV ainda em início de carreira. <br>
+  Me chamo <strong>Maurício</strong>, sou estudante de programação e um DEV ainda em início de carreira. <br>
   Atualmente sou técnologo em <strong><em>Análise e Desenvolvimento de Sistemas</em></strong> e estudo tecnologias voltadas para o <strong>Front-End</strong>.<br>
   O motivo de querer seguir carreira como <strong>Desenvolvedor Web</strong> é que eu vim da área do <strong>Design</strong>,<br> onde eu já tenho familiaridade e um certo domínio de <strong>softwares gráficos</strong>.
 </p>
