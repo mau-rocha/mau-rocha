@@ -51,13 +51,12 @@
 ## ⭐ GitHub Stats
 
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=mau-rocha&show_icons=true&theme=radical">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mau-rocha&theme=radical" width="353px">
+<img src = "https://github-readme-stats.vercel.app/api?username=mau-rocha&show_icons=true&theme=radical" width="450px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mau-rocha&theme=radical" width="323px">
  
 </p>
 
 
 <div align="center">
-<h2><strong>Bó Codar!</strong></h2>
 <img src="https://i.gifer.com/origin/bd/bda49ae1dab60580916da7193c943ba3.gif" width="400px" />
 </div>
